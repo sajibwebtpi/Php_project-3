@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BMW",
+    "type": "Car",
+    "price": "234324",
+    "image": "https://www.bmw.com.sg/content/dam/bmw/common/all-models/m-series/series-overview/bmw-m-series-seo-overview-ms-04.jpg"
+  },
+  {
+    "name": "R15 V3",
+    "type": "Bike",
+    "price": "7000",
+    "image": "https://www.financialexpress.com/wp-content/uploads/2020/08/yamaha-r15-dark-knight.jpg"
+  }
+]
